@@ -1,2 +1,3 @@
 name: "Nature from out and about"
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
