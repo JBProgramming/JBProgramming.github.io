@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "A trip to Roundhay"
-date: 2018-05-11
+title: "Swanning Around"
 ---
 
-Today i started documenting the things that i see at roundhay.
+Okay, so, at my local park there is a beautiful lake; it is teeming with wildlife, from tadpoles to all manners of water birds to bats.   Today while I was walking there, I noticed something spectacular...  There are two pairs of nesting swans!
