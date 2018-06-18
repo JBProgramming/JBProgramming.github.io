@@ -6,6 +6,6 @@ title: "There's no time to be bored in a world as beautiful as this"
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li>title="{{ post.title }}">{{ post.title }} » <a href="{{ post.url }}"Last Updated: <span>{{ post.date | date_to_string }}</span> </a></li>
+	    <li><title="{{ post.title }}">{{ post.title }} » <a href="{{ post.url }}"Last Updated: <span>{{ post.date | date_to_string }}</span> </a></li>
 	  {% endfor %}
 	</ul>
