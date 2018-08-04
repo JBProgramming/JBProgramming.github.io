@@ -1,15 +1,7 @@
 body {
-    body {
     margin: 60px auto;
     width: 70%;
 }
-
-img {
-    max-width: 70%;
-    max-height: 100vh;
-    height: auto;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -25,7 +17,7 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline rgb(102, 153, 153) ;
+    text-decoration: underline;
 }
 h1 {
     font-size: 3em;
